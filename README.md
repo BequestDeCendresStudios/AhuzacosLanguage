@@ -7,7 +7,7 @@ Ahuzacos is a constructed language designed to blend the cultural and linguistic
 - **Japanese**: 35%
 - **French**: 30%
 - **German**: 30%
-- **Other**: 5%
+- **Hybrid**: 5%
 
 ## Examples
 
