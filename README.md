@@ -19,7 +19,7 @@ Ahuzacos is a constructed language designed to blend the cultural and linguistic
 No, Ahuzacos is not intended for cryptography or steganography. Its primary purpose is to enrich creative writing and world-building in science fiction, fantasy, and other genres.
 
 ### How can I contribute to this project?
-We welcome contributions that align with the creative and cultural purposes of Ahuzacos. Please review our [Contribution Guidelines](CONTRIBUTING.md) for more information.
+I'm not currently taking contributions at this time.
 
 ## License
 This project is licensed under the [Human Exclusivity](LICENSE). See the LICENSE file for details.
