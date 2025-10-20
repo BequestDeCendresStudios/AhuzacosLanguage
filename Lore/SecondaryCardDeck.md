@@ -1,6 +1,7 @@
 # Secondary Deck
 This is the secondary deck which will probably become the main defensive deck.
 
+
 ## Scroll Of Tsunamis
 Tsunami Esu<br />
 Tsunami Roi<br />
