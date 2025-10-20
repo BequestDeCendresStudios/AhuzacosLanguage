@@ -2,99 +2,99 @@
 This is the secondary deck which will probably become the main defensive deck.
 
 ## Scroll Of Tsunamis
-Tsunami Esu
-Tsunami Roi
-Tsunami Reine
-Tsunami Jakku
-Tsunami Dix
-Tsunami Neuf
-Tsunami Huit
-Tsunami Sept
-Tsunami Cinq
-Tsunami Quatre
-Tsunami Tres
-Tsunami Des
+Tsunami Esu<br />
+Tsunami Roi<br />
+Tsunami Reine<br />
+Tsunami Jakku<br />
+Tsunami Dix<br />
+Tsunami Neuf<br />
+Tsunami Huit<br />
+Tsunami Sept<br />
+Tsunami Cinq<br />
+Tsunami Quatre<br />
+Tsunami Tres<br />
+Tsunami Des<br />
 
 ## Scroll Of Sandstorms
-Tempete De Sable Esu
-Tempete De Sable Roi
-Tempete De Sable Reine
-Tempete De Sable Jakku
-Tempete De Sable Dix
-Tempete De Sable Neuf
-Tempete De Sable Huit
-Tempete De Sable Sept
-Tempete De Sable Cinq
-Tempete De Sable Quatre
-Tempete De Sable Tres
-Tempete De Sable Des
+Tempete De Sable Esu<br />
+Tempete De Sable Roi<br />
+Tempete De Sable Reine<br />
+Tempete De Sable Jakku<br />
+Tempete De Sable Dix<br />
+Tempete De Sable Neuf<br />
+Tempete De Sable Huit<br />
+Tempete De Sable Sept<br />
+Tempete De Sable Cinq<br />
+Tempete De Sable Quatre<br />
+Tempete De Sable Tres<br />
+Tempete De Sable Des<br />
 
 ## Scroll Of Poison
-Dokubutsu Esu
-Dokubutsu Roi
-Dokubutsu Reine
-Dokubutsu Jakku
-Dokubutsu Dix
-Dokubutsu Neuf
-Dokubutsu Huit
-Dokubutsu Sept
-Dokubutsu Cinq
-Dokubutsu Quatre
-Dokubutsu Tres
-Dokubutsu Des
+Dokubutsu Esu<br />
+Dokubutsu Roi<br />
+Dokubutsu Reine<br />
+Dokubutsu Jakku<br />
+Dokubutsu Dix<br />
+Dokubutsu Neuf<br />
+Dokubutsu Huit<br />
+Dokubutsu Sept<br />
+Dokubutsu Cinq<br />
+Dokubutsu Quatre<br />
+Dokubutsu Tres<br />
+Dokubutsu Des<br />
 
 ## Scroll Of Corruption
-Oshoko Esu
-Oshoko Roi
-Oshoko Reine
-Oshoko Jakku
-Oshoko Dix
-Oshoko Neuf
-Oshoko Huit
-Oshoko Sept
-Oshoko Cinq
-Oshoko Quatre
-Oshoko Tres
-Oshoko Des
+Oshoko Esu<br />
+Oshoko Roi<br />
+Oshoko Reine<br />
+Oshoko Jakku<br />
+Oshoko Dix<br />
+Oshoko Neuf<br />
+Oshoko Huit<br />
+Oshoko Sept<br />
+Oshoko Cinq<br />
+Oshoko Quatre<br />
+Oshoko Tres<br />
+Oshoko Des<br />
 
 ## Scroll Of Mortality
-Shi Esu
-Shi Roi
-Shi Reine
-Shi Jakku
-Shi Dix
-Shi Neuf
-Shi Huit
-Shi Sept
-Shi Cinq
-Shi Quatre
-Shi Tres
-Shi Des
+Shi Esu<br />
+Shi Roi<br />
+Shi Reine<br />
+Shi Jakku<br />
+Shi Dix<br />
+Shi Neuf<br />
+Shi Huit<br />
+Shi Sept<br />
+Shi Cinq<br />
+Shi Quatre<br />
+Shi Tres<br />
+Shi Des<br />
 
 ## Scroll Of Healing
-Vie Esu
-Vie Roi
-Vie Reine
-Vie Jakku
-Vie Dix
-Vie Neuf
-Vie Huit
-Vie Sept
-Vie Cinq
-Vie Quatre
-Vie Tres
-Vie Des
+Vie Esu<br />
+Vie Roi<br />
+Vie Reine<br />
+Vie Jakku<br />
+Vie Dix<br />
+Vie Neuf<br />
+Vie Huit<br />
+Vie Sept<br />
+Vie Cinq<br />
+Vie Quatre<br />
+Vie Tres<br />
+Vie Des<br />
 
 ## Scroll Of Unity
-Yunion Esu
-Yunion Roi
-Yunion Reine
-Yunion Jakku
-Yunion Dix
-Yunion Neuf
-Yunion Huit
-Yunion Sept
-Yunion Cinq
-Yunion Quatre
-Yunion Tres
-Yunion Des
+Yunion Esu<br />
+Yunion Roi<br />
+Yunion Reine<br />
+Yunion Jakku<br />
+Yunion Dix<br />
+Yunion Neuf<br />
+Yunion Huit<br />
+Yunion Sept<br />
+Yunion Cinq<br />
+Yunion Quatre<br />
+Yunion Tres<br />
+Yunion Des<br />
