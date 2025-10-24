@@ -22,7 +22,7 @@ No, Ahuzacos is not intended for cryptography or steganography. Its primary purp
 I'm not currently taking contributions at this time.
 
 ## License
-This project is licensed under the [Human Exclusivity](LICENSE). See the LICENSE file for details.
+This project is licensed under the [Human Exclusivity](https://bequestdecendresstudios.github.io/AhuzacosLanguage/LICENSE/). See the LICENSE file for details.
 
 ## Contact
 If you have any questions or need further clarification, please contact us at [Mastodon]().
