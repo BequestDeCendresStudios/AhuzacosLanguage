@@ -3,7 +3,7 @@
 Thank you for your interest in contributing to My Custom Alphabet! Please follow these guidelines to ensure a smooth and respectful contribution process.
 
 ## Code of Conduct
-Please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md). We expect all contributors to adhere to these guidelines to maintain a positive and inclusive community.
+Please read and follow our [Code of Conduct](https://github.com/BequestDeCendresStudios/AhuzacosLanguage/blob/main/CodeOfConduct.md). We expect all contributors to adhere to these guidelines to maintain a positive and inclusive community.
 
 ## License
 This project is licensed under the [FOSS Human Exclusivity License](https://bequestdecendresstudios.github.io/AhuzacosLanguage/LICENSE/). Please ensure that your contributions comply with this license.
